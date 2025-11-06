@@ -73,13 +73,13 @@ The dataset used in this project is available on Kaggle:
 
 ## Results
 
-| Model                  | Accuracy (%) | Implementation |
-|------------------------|--------------|----------------|
-| Random Forest (RF)     | 75.00        | Manual         |
-| Support Vector Machines (SVM) | 87.00        | Manual         |
-| K-Means Clustering     | 65.00        | Manual         |
-| K-Nearest Neighbors (KNN) | 72.00        | Manual         |
-| Convolutional Neural Networks (CNN) | **92.00**   | Manual         |
+| Model                  | Accuracy (%) | 
+|------------------------|--------------|
+| Random Forest (RF)     | 75.00        | 
+| Support Vector Machines (SVM) | 87.00 | 
+| K-Means Clustering     | 65.00        | 
+K-Nearest Neighbors (KNN) | 72.00       | 
+| Convolutional Neural Networks (CNN) | **92.00**   | 
 
 ### Key Insights
 - **Manually implemented CNNs** excelled in feature learning, particularly for complex patterns in underwater images
