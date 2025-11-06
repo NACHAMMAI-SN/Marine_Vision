@@ -130,7 +130,6 @@ Comparative-Analysis-of-Machine-Learning-Algorithms-for-Marine-Animal-Detection/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/thirumagalmeena/Marine_Vision.git
    git clone https://github.com/NACHAMMAI-SN/Marine_Vision.git
    cd Comparative-Analysis-of-Machine-Learning-Algorithms-for-Marine-Animal-Detection
    ```
